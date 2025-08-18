@@ -1,75 +1,78 @@
-<!--
-Perfil de GitHub — Casto Gil
-Sugerencias:
-- Reemplaza los enlaces marcados como TODO (LinkedIn/Portfolio).
-- Actualiza la sección “Proyectos destacados” con repos reales que quieras fijar.
--->
-
-<h1 align="center">¡Hola! Soy Casto Gil 👋</h1>
+<h1 align="center">👋 Hola, soy Casto Gil</h1>
 <p align="center">
-  Full-Stack Developer · React · Django/Java · Web3 (Solidity) · QA Mindset
+  Full-Stack Developer · <b>Node.js</b> · JavaScript · React · Django/Java · Web3 (Solidity) · QA Mindset
 </p>
 
 <p align="center">
-  <a href="mailto:casto782@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-casto782%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/CastoGil"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-CastoGil-24292E?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/casto-ricardo-gil-cañizalez-1aa322150/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-CastoGil-0A66C2?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://castogil.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Agregar-111?style=for-the-badge&logo=vercel"></a>
+  <a href="mailto:casto782@gmail.com"><img src="https://img.shields.io/badge/Email-casto782%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/CastoGil"><img src="https://img.shields.io/badge/GitHub-CastoGil-24292E?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/castogil"><img src="https://img.shields.io/badge/LinkedIn-Casto%20Gil-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://castogil.github.io"><img src="https://img.shields.io/badge/Portfolio-Pronto-111?style=for-the-badge&logo=vercel" /></a>
 </p>
 
 ---
 
 ## 👋 Bienvenid@ / Welcome
-**ES.** Soy **Full-Stack Developer** de Argentina. Construyo frontends en **React**, APIs con **Django/Java** y bases de datos **MySQL/MongoDB**. En Web3 desarrollo **smart contracts en Solidity**. Tengo mentalidad de **calidad/QA**: tests claros, PRs limpios y métricas.
+**ES.** Soy **Full-Stack Developer** de Argentina. Construyo frontends en **React**, APIs con **Node.js/Express**, también **Django/Java**, y bases de datos **MongoDB/MySQL**. En Web3 desarrollo **smart contracts en Solidity**. Trabajo con mentalidad de **calidad/QA**: tests claros, PRs limpios y métricas.
 
-**EN.** I’m a **Full-Stack Developer** from Argentina. I build **React** frontends, **Django/Java** APIs, and work with **MySQL/MongoDB**. On Web3 I write **Solidity** smart contracts. Quality-first mindset: clear tests, clean PRs, meaningful metrics.
+**EN.** I’m a **Full-Stack Developer** from Argentina. I build **React** frontends and **Node.js/Express** APIs (also **Django/Java**), using **MongoDB/MySQL**. I write **Solidity** smart contracts and keep a **quality-first** mindset.
 
 ---
 
-## 💻 Stack principal
+## 💻 Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" />
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Manual%20Testing-25A162?logo=testcafe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-FA7343?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=000" />
+  <img src="https://img.shields.io/badge/Passport.js-34E27A?logo=passport&logoColor=000" />
+  <img src="https://img.shields.io/badge/Stripe-626CD9?logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Testing-Mocha%20%7C%20Chai%20%7C%20Supertest-25A162" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
 </p>
 
 ---
 
 ## 🚀 Proyectos destacados
-<!-- Reemplaza/ordena estos ejemplos con tus repos reales y fíjalos como "Pinned" -->
-- 🛒 **E-commerce Kidswear (MERN + Mercado Pago)**  
-  Carrito, pagos, panel admin, métricas de venta.  
-  _Stack:_ React, Node, MongoDB, JWT.  
-  🔗 Repo: https://github.com/CastoGil/**TODO-ecommerce-kidswear**
+- 🛒 **E-commerce Web App** — Carrito, pasarela de pago **Stripe**, auth con **Passport**, roles, reset de password, **tests** (Mocha/Chai/Supertest), documentación, etc.  
+  _Stack:_ **Node.js, Express, MongoDB, Handlebars, JWT, Nodemailer**.  
+  🔗 Repo: https://github.com/CastoGil/Ecommerce.end
 
-- 🌐 **Remesas AR-VE (React + Django)**  
-  Cálculo de tasas, KYC y tracking.  
-  _Stack:_ React, Django REST, MySQL, Docker.  
-  🔗 Repo: https://github.com/CastoGil/**TODO-remesas-app**
+- 🦄 **SimpleDEX (Front + Server)** — Interfaz y servidor para DEX simple con **Ethers.js**, conexión a **Scroll Sepolia**, agregar/retirar liquidez e intercambio de tokens.  
+  _Stack:_ **Node.js/Express, HTML/CSS/JS, Ethers.js, MetaMask**.  
+  🔗 Repo: https://github.com/CastoGil/Front_Eth_SimpleDex
 
-- 💹 **Crypto Trader Toolkit**  
-  Alertas (S/R, EMA, RSI) y backtesting simple.  
-  _Stack:_ React, Node, WebSockets.  
-  🔗 Repo: https://github.com/CastoGil/**TODO-crypto-trader**
+- 🔐 **Auth: GitHub OAuth + JWT Cookie** — Login con GitHub, emisión de **JWT**, `auth/current` y rutas protegidas.  
+  _Stack:_ **Node.js, Express, Passport.js, Handlebars**.  
+  🔗 Repo: https://github.com/CastoGil/login-passport-JWT-cookie
 
-- 🔐 **DeFi Micro-Vaults (Solidity)**  
-  Contratos ERC-20/4626, tests y auditoría básica.  
-  _Stack:_ Solidity, Hardhat, Ethers.js.  
-  🔗 Repo: https://github.com/CastoGil/**TODO-defi-vaults**
+- 📦 **Uploads con Multer + Premium Users** — Gestión de documentos (perfil, identificación, addressProof, accountProof), carpetas dinámicas y upgrade a **premium** con validaciones.  
+  _Stack:_ **Node.js, Express, Multer, Handlebars**.  
+  🔗 Repo: https://github.com/CastoGil/Multer
 
-> Mientras tanto, podés fijar temporalmente 2–3 repos existentes (por ejemplo: `Aplicando-Sass`, `Segunda-Entrega-Proyecto`) hasta subir los de arriba con README y screenshots.
+- 📘 **API Docs con Swagger** — Documentación YAML de módulos **products** y **carts** con rutas protegidas.  
+  _Stack:_ **Node.js, Express, Swagger**.  
+  🔗 Repo: https://github.com/CastoGil/swagger
+
+- 🧾 **Subasta en Solidity** — Contrato inteligente con pujas +5%, extensión de tiempo, eventos y manejo de depósitos.  
+  _Stack:_ **Solidity**.  
+  🔗 Repo: https://github.com/CastoGil/SolidityEth
+
+- ☕ **API base en Java (Maven)** — Estructura de backend con `pom.xml` y `src/main`.  
+  _Stack:_ **Java**.  
+  🔗 Repo: https://github.com/CastoGil/back.end-java
+
+> Si querés, abrimos issues en cada repo para agregar **screenshots**/gifs y un README más comercial (problema → solución → resultado).
 
 ---
 
-## 📊 GitHub stats
+## 📊 GitHub Stats
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=CastoGil&show_icons=true&theme=tokyonight" />
   <img height="165" src="https://streak-stats.demolab.com?user=CastoGil&theme=tokyonight" />
@@ -81,18 +84,19 @@ Sugerencias:
 ---
 
 ## 🧪 Enfoque de calidad (QA)
-- Casos de prueba claros (precondiciones, pasos, resultados esperados).
-- PRs con checklist de accesibilidad y performance.
-- Métricas: cobertura base, issues por release, MTTR.
+- Casos de prueba claros (precondiciones, pasos, resultados esperados).  
+- PRs con checklist de accesibilidad y performance.  
+- Métricas: cobertura mínima, issues por release, tiempo medio de resolución.
 
 ---
 
 ## 📫 Contacto
-- 📧 **casto782@gmail.com**
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/**TODO**
-- 🌐 **Portfolio:** https://castogil.github.io (**opcional**)
+- 📧 **casto782@gmail.com**  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/castogil  
+- 🌐 **Portfolio:** https://castogil.github.io  *(opcional)*
 
 ---
 
 ## ⚡ Fun fact
-Fan del mate 🧉, del **trading cripto** y de construir productos limpios, medibles y mantenibles. 
+Fan del mate 🧉, del **trading cripto** y de construir productos limpios, medibles y mantenibles.
+
