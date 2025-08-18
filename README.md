@@ -68,7 +68,6 @@
   _Stack:_ **Java**.  
   🔗 Repo: https://github.com/CastoGil/back.end-java
 
-> Si querés, abrimos issues en cada repo para agregar **screenshots**/gifs y un README más comercial (problema → solución → resultado).
 
 ---
 
@@ -98,5 +97,5 @@
 ---
 
 ## ⚡ Fun fact
-Fan del mate 🧉, del **trading cripto** y de construir productos limpios, medibles y mantenibles.
+Fan del café ☕, de investigar y de construir productos limpios, medibles y mantenibles.
 
