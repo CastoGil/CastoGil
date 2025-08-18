@@ -13,7 +13,7 @@ Sugerencias:
 <p align="center">
   <a href="mailto:casto782@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-casto782%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/CastoGil"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-CastoGil-24292E?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/TODO/"><img alt="LinkedIn" src="https://www.linkedin.com/in/casto-ricardo-gil-ca%C3%B1izalez-1aa322150/"></a>
+  <a href="https://www.linkedin.com/in/casto-ricardo-gil-cañizalez-1aa322150/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Agregar-0A66C2?style=for-the-badge&logo=linkedin"></a>
   <a href="https://castogil.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Agregar-111?style=for-the-badge&logo=vercel"></a>
 </p>
 
@@ -96,12 +96,3 @@ Sugerencias:
 
 ## ⚡ Fun fact
 Fan del mate 🧉, del **trading cripto** y de construir productos limpios, medibles y mantenibles. 
-
-
-### 🤝 Open to:
-- Oportunidades **Full-Stack** (React + Node/Java/Django).  
-- **Web3/Solidity** (contratos, integraciones, auditoría básica).  
-- Colaboraciones **Open Source**.
-
----
-
