@@ -40,33 +40,33 @@
 ---
 
 ## 🚀 Proyectos destacados
-- 🛒 **E-commerce Web App** — Carrito, pasarela de pago **Stripe**, auth con **Passport**, roles, reset de password, **tests** (Mocha/Chai/Supertest), documentación, etc.  
+- 🛒 **E-commerce End-to-End** — Carrito, pasarela de pago **Stripe**, auth con **Passport**, roles, reset de password, **tests** (Mocha/Chai/Supertest), documentación, etc.  
   _Stack:_ **Node.js, Express, MongoDB, Handlebars, JWT, Nodemailer**.  
-  🔗 Repo: https://github.com/CastoGil/Ecommerce.end
+  🔗 Repo: https://github.com/CastoGil/ecommerce-end-to-end
 
-- 🦄 **SimpleDEX (Front + Server)** — Interfaz y servidor para DEX simple con **Ethers.js**, conexión a **Scroll Sepolia**, agregar/retirar liquidez e intercambio de tokens.  
+- 🦄 **Simple DEX (Scroll Sepolia)** — Interfaz y servidor para DEX simple con **Ethers.js**, conexión a **Scroll Sepolia**, agregar/retirar liquidez e intercambio de tokens.  
   _Stack:_ **Node.js/Express, HTML/CSS/JS, Ethers.js, MetaMask**.  
-  🔗 Repo: https://github.com/CastoGil/Front_Eth_SimpleDex
+  🔗 Repo: https://github.com/CastoGil/simple-dex-scroll-sepolia
 
 - 🔐 **Auth: GitHub OAuth + JWT Cookie** — Login con GitHub, emisión de **JWT**, `auth/current` y rutas protegidas.  
   _Stack:_ **Node.js, Express, Passport.js, Handlebars**.  
-  🔗 Repo: https://github.com/CastoGil/login-passport-JWT-cookie
+  🔗 Repo: https://github.com/CastoGil/auth-github-jwt-cookie
 
-- 📦 **Uploads con Multer + Premium Users** — Gestión de documentos (perfil, identificación, addressProof, accountProof), carpetas dinámicas y upgrade a **premium** con validaciones.  
+- 📦 **File Uploads con Multer + Premium Users** — Gestión de documentos (perfil, identificación, addressProof, accountProof), carpetas dinámicas y upgrade a **premium** con validaciones.  
   _Stack:_ **Node.js, Express, Multer, Handlebars**.  
-  🔗 Repo: https://github.com/CastoGil/Multer
+  🔗 Repo: https://github.com/CastoGil/file-upload-multer
 
 - 📘 **API Docs con Swagger** — Documentación YAML de módulos **products** y **carts** con rutas protegidas.  
   _Stack:_ **Node.js, Express, Swagger**.  
-  🔗 Repo: https://github.com/CastoGil/swagger
+  🔗 Repo: https://github.com/CastoGil/api-swagger-docs
 
 - 🧾 **Subasta en Solidity** — Contrato inteligente con pujas +5%, extensión de tiempo, eventos y manejo de depósitos.  
   _Stack:_ **Solidity**.  
-  🔗 Repo: https://github.com/CastoGil/SolidityEth
+  🔗 Repo: https://github.com/CastoGil/auction-solidity-contract
 
-- ☕ **API base en Java (Maven)** — Estructura de backend con `pom.xml` y `src/main`.  
+- ☕ **REST API en Java (Maven)** — Estructura de backend con `pom.xml` y `src/main`.  
   _Stack:_ **Java**.  
-  🔗 Repo: https://github.com/CastoGil/back.end-java
+  🔗 Repo: https://github.com/CastoGil/rest-api-java
 
 
 ---
