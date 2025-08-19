@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hola, soy Casto Gil</h1>
+
 <p align="center">
-  Full-Stack Developer · <b>Node.js</b> · JavaScript · React · Django/Java · Web3 (Solidity) · QA Mindset
+  Full-Stack Developer · <b>Node.js</b> · JavaScript · <b>Python</b> · React · Django/Java · Web3 (Solidity) · QA Mindset
 </p>
 
 <p align="center">
@@ -12,21 +13,26 @@
 
 ---
 
-## 👋 Bienvenid@ / Welcome
-**ES.** Soy **Full-Stack Developer** de Argentina. Construyo frontends en **React**, APIs con **Node.js/Express**, también **Django/Java**, y bases de datos **MongoDB/MySQL**. En Web3 desarrollo **smart contracts en Solidity**. Trabajo con mentalidad de **calidad/QA**: tests claros, PRs limpios y métricas.
+> **About**  
+> Desarrollador **Full-Stack** especializado en **Node**, **JavaScript**, **Python**, **React**, **Java**, bases de datos **MySQL** y **MongoDB**,  contratos en **Solidity**; apasionado del **testing** y de la **optimización de productos**.  
+> _Open to remote & OSS collaborations._
 
-**EN.** I’m a **Full-Stack Developer** from Argentina. I build **React** frontends and **Node.js/Express** APIs (also **Django/Java**), using **MongoDB/MySQL**. I write **Solidity** smart contracts and keep a **quality-first** mindset.
+## 👋 Bienvenid@ / Welcome
+**ES.** Soy **Full-Stack Developer** de Argentina. Construyo frontends en **React**, APIs con **Node.js/Express** (también **Django/Java**), y trabajo con **MongoDB/MySQL**. En Web3 desarrollo **smart contracts en Solidity**. Mantengo una mentalidad **quality-first/QA**: tests claros, PRs limpios y métricas.
+
+**EN.** I’m a **Full-Stack Developer** from Argentina. I build **React** frontends and **Node.js/Express** APIs (also **Django/Java**) with **MongoDB/MySQL**. I write **Solidity** smart contracts and keep a **quality-first** mindset.
 
 ---
 
 ## 💻 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" />
@@ -40,7 +46,7 @@
 ---
 
 ## 🚀 Proyectos destacados
-- 🛒 **E-commerce End-to-End** — Carrito, pasarela de pago **Stripe**, auth con **Passport**, roles, reset de password, **tests** (Mocha/Chai/Supertest), documentación, etc.  
+- 🛒 **E-commerce End-to-End** — Carrito, pagos **Stripe**, auth con **Passport**, roles, reset de password, **tests** (Mocha/Chai/Supertest), documentación, etc.  
   _Stack:_ **Node.js, Express, MongoDB, Handlebars, JWT, Nodemailer**.  
   🔗 Repo: https://github.com/CastoGil/ecommerce-end-to-end
 
@@ -56,7 +62,7 @@
   _Stack:_ **Node.js, Express, Multer, Handlebars**.  
   🔗 Repo: https://github.com/CastoGil/file-upload-multer
 
-- 📘 **API Docs con Swagger** — Documentación YAML de módulos **products** y **carts** con rutas protegidas.  
+- 📘 **API Docs con Swagger** — Documentación OpenAPI (YAML) de módulos **products** y **carts** con rutas protegidas.  
   _Stack:_ **Node.js, Express, Swagger**.  
   🔗 Repo: https://github.com/CastoGil/api-swagger-docs
 
@@ -68,23 +74,20 @@
   _Stack:_ **Java**.  
   🔗 Repo: https://github.com/CastoGil/rest-api-java
 
-
 ---
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CastoGil&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://streak-stats.demolab.com?user=CastoGil&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CastoGil&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=CastoGil&theme=tokyonight" alt="GitHub streak" />
 </p>
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CastoGil&layout=compact&langs_count=8&theme=tokyonight" />
-</p>
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CastoGil&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CastoGil&layout=compact&langs_count=8&theme=tokyonight" alt="Top languages" />
 </p>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=CastoGil&style=flat-square&label=Profile+views" alt="Profile views" />
 </p>
+
 
 ---
 
@@ -98,10 +101,11 @@
 ## 📫 Contacto
 - 📧 **casto782@gmail.com**  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/castogil  
-- 🌐 **Portfolio:** https://castogil.github.io  *(opcional)*
+
 
 ---
 
 ## ⚡ Fun fact
 Fan del café ☕, de investigar y de construir productos limpios, medibles y mantenibles.
+
 
