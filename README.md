@@ -27,12 +27,11 @@ Desarrollador Full-Stack especializado en <b>Node</b>, <b>JavaScript</b>, <b>Pyt
 
 ---
 
-## 👋 Bienvenid@ / Welcome
-**ES.** Construyo frontends en **React**, APIs con **Node.js/Express** (también **Django/Java**) y trabajo con **MongoDB/MySQL**. En Web3 desarrollo **smart contracts en Solidity**. Enfoque **quality-first**: tests claros, PRs limpios, métricas y CI/CD.
+## 👋 Bienvenid@ / Welcome  
 
-**EN.** I build **React** frontends and **Node.js/Express** APIs (also **Django/Java**) with **MongoDB/MySQL**. I write **Solidity** smart contracts and keep a **quality-first** mindset (tests, clean PRs, metrics, CI/CD).
+**ES.** Construyo frontends en **JavaScript/HTML/CSS** (con nociones de **React**), APIs con **Node.js/Express** (también **Django/Java**) y trabajo con **MongoDB/MySQL**. En Web3 desarrollo **smart contracts en Solidity**. Además, tengo formación en **Testing Manual**, lo que refuerza mi enfoque **quality-first**: casos de prueba claros, PRs limpios, métricas y CI/CD.  
 
----
+**EN.** I build frontends with **JavaScript/HTML/CSS** (with some **React**), **Node.js/Express** APIs (also **Django/Java**) and work with **MongoDB/MySQL**. I develop **Solidity** smart contracts and have training in **Manual Testing**, which strengthens my **quality-first** mindset: clear test cases, clean PRs, reliable metrics, and CI/CD.  
 
 ## 💻 Tech Stack
 <p>
