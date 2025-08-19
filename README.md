@@ -79,6 +79,12 @@
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CastoGil&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CastoGil&layout=compact&langs_count=8&theme=tokyonight" />
+</p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=CastoGil&style=flat-square&label=Profile+views" alt="Profile views" />
+</p>
 
 ---
 
